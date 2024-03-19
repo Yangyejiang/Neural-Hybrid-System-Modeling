@@ -36,6 +36,6 @@ The case study of a six-axis industrial robot arm, drawing upon the dataset and 
 
 2. Our Proposed Distributed Learning Model (Simulation Mode)\
 ![image](https://github.com/aicpslab/Neural-Hybrid-System-Modeling/blob/main/Example/Fig/Switch_IndustrialSimulation.png)
-Our distributed learning example (Neural-Hybrid-System-Modeling/examples/Industrial_Robot.m) achieved high accuracy in reconstructing the robot arm's dynamics. Notably, our model demonstrated superior performance during the low-velocity phase compared to not only the conventional neural network modeling method but also the original modeling approach (Neural-Hybrid-System-Modeling/examples/Industrial_ReferenceModel_Forward.m) (this reference example is based on https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/7284/file/Robot_Identification_Benchmark_Description.pdf).\
+Our distributed learning example (.../examples/Industrial_Robot.m) achieved high accuracy in reconstructing the robot arm's dynamics. Notably, our model demonstrated superior performance during the low-velocity phase compared to not only the conventional neural network modeling method but also the original modeling approach (.../examples/Industrial_ReferenceModel_Forward.m) (this reference example is based on https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/7284/file/Robot_Identification_Benchmark_Description.pdf).\
 3. Reference Model (Simulation Mode)\
 ![image](https://github.com/aicpslab/Neural-Hybrid-System-Modeling/blob/main/Example/Fig/ReferenceModel.png)
