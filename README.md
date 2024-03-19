@@ -30,8 +30,8 @@ This tool uses a data-driven method to enhance the scalability of neural network
 
 # Complex Dynamical System Modeling
 
-The case study of a six-axis industrial robot arm, drawing upon the dataset and baseline established in the research conducted by J. Weigand, J. Götz, J. Ulmen, and M. Ruskowski, titled "Dataset and Baseline for an Industrial Robot Identification Benchmark", accessible at https://www.nonlinearbenchmark.org/benchmarks/industrial-robot, is given as an example of the complex dynamical system modeling. 
-1、Conventional Single Neural Network Model\
+The case study of a six-axis industrial robot arm, drawing upon the dataset and baseline established in the research conducted by J. Weigand, J. Götz, J. Ulmen, and M. Ruskowski, titled "Dataset and Baseline for an Industrial Robot Identification Benchmark", accessible at https://www.nonlinearbenchmark.org/benchmarks/industrial-robot, is given as an example of the complex dynamical system modeling. \
+1. Conventional Single Neural Network Model\
 ![image](https://github.com/aicpslab/Neural-Hybrid-System-Modeling/blob/main/Example/Fig/Single_IndustrialSimulation.png)
 
 2. Our Proposed Distributed Learning Model\
